@@ -1,2 +1,2 @@
-# turtlefoxfire-OS
-My Owen Linux OS system
+# TurtleFoxFire-OS
+Arch Linux TurtleFoxFire-OS system
