@@ -1,2 +1,2 @@
 # TurtleFoxFire-OS (Arch Linux)
-Arch Linux TurtleFoxFire-OS system
+Arch Linux [TurtleFoxFire-OS] system (TurtleFoxOS.sh)
