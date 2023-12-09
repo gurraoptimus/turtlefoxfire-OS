@@ -78,7 +78,7 @@ sed -i 's/^#sv_SE.UTF-8 UTF-8/sv_SE.UTF-8 UTF-8/' /etc/locale.gen
 locale-gen
 echo "LANG=sv_SE.UTF-8" >> /etc/locale.conf
 
-ln -sf /usr/share/zoneinfo/sweden/stockholm /etc/localtime
+ln -sf /usr/share/zoneinfo/Europe/Stockholm /etc/localtime
 hwclock --systohc
 
 echo "TurtleFoxOS" > /etc/hostname
