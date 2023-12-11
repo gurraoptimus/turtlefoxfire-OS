@@ -47,7 +47,7 @@ echo "######################################"
 echo "## Setup Dependencies               ##"
 echo "######################################"
 
-pacstrap /mnt networkmanager network-manager-applet wireless_tools nano intel-ucode bluez bluez-utils blueman git sudo firefox --noconfirm --needed
+pacstrap /mnt networkmanager network-manager-applet wireless_tools nano intel-ucode bluez bluez-utils blueman git sudo firefox timeshift --noconfirm --needed
 
 # fstab
 genfstab -U /mnt >> /mnt/etc/fstab
